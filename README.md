@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jesus
 
-<!--
-**JesusLuis493/JesusLuis493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+🏫 Universidad Instituto Tecnologico superirior De Nochistlan  
+💻 Apasionado por el desarrollo de software, los videojuegos retro y la programación eficiente.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 C++ – Programacion Orientada a Objetos y lógica de programación
+- 🌐 HTML – Desarrollo web básico
+- 🗃️ MySQL – Bases de datos relacionales
+- 🔧 Git – Control de versiones y colaboración
+- 🎮 Pixel art y Modelado 3D – Usando GIMP y Blender
+- 🕹️ M.U.G.E.N y Fighter Factory – Diseño de personajes y mecánicas para juegos de pelea
+
+## 🚀 Proyectos en curso
+
+- 🎮 *Mortal Kombat 4 NES Remaster* – Proyecto personal que combina estética retro con mecánicas modernas
+- 📱 Exploración de dispositivos antiguos como consolas retro
+- 🧠 Diagnóstico y reparación de hardware (TVs, laptops)
+
+## 🎯 Objetivo
+
+Estoy en constante aprendizaje y busco herramientas que me ayuden a crecer como desarrollador.  
+Adquirir abilidades relevantes tanto en areas de mantenimiento y reparacion de hardware y software.
+
+---¡Estoy abierto a conectar con otros desarrolladores y aprender!
