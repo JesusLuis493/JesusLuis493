@@ -13,7 +13,7 @@
 
 ## 🚀 Proyectos en curso
 
-- 🎮 *Mortal Kombat 4 NES Remaster* – Proyecto personal que combina estética retro con mecánicas modernas
+- 🎮 Desarrollo y adquisision de experiencia en DevOps
 - 📱 Exploración de dispositivos antiguos como consolas retro
 - 🧠 Diagnóstico y reparación de hardware (TVs, laptops)
 
