@@ -7,11 +7,9 @@
 ## 🛠️ Tecnologías que manejo
 
 - 💻 C++ – Programacion Orientada a Objetos y lógica de programación
-- 🌐 HTML – Desarrollo web básico
-- 🗃️ MySQL – Bases de datos relacionales
+- 🌐 C# – Desarrollo de POO básico
 - 🔧 Git – Control de versiones y colaboración
 - 🎮 Pixel art y Modelado 3D – Usando GIMP y Blender
-- 🕹️ M.U.G.E.N y Fighter Factory – Diseño de personajes y mecánicas para juegos de pelea
 
 ## 🚀 Proyectos en curso
 
