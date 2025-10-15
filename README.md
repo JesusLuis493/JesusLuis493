@@ -13,7 +13,7 @@
 
 ## 🚀 Proyectos en curso
 
-- 🎮 Desarrollo y adquisision de experiencia en DevOps
+- 🎮 Desarrollo y adquisision de experiencia en DevOps (tora-devops-toolkit)
 - 📱 Exploración de dispositivos antiguos como consolas retro
 - 🧠 Diagnóstico y reparación de hardware (TVs, laptops)
 
