@@ -19,7 +19,7 @@ Este README está diseñado para mostrar mis habilidades, proyectos y mi pasión
 
 ### 🚀 Aspirante a Ingeniero DevOps y Entusiasta de la Nube
 
-Soy un estudiante de **Ingeniería en Sistemas Computacionales** apasionado por la automatización, la infraestructura como código y la creación de pipelines de CI/CD eficientes. Mi objetivo es aplicar mis habilidades para resolver problemas complejos y contribuir a la creación de software robusto y escalable. Busco activamente una **oportunidad de pasantía en el área de DevOps** donde pueda aprender y aportar valor.
+Soy un estudiante de **Ingeniería en Sistemas Computacionales** apasionado por aprender la automatización, la infraestructura como código y la creación de pipelines de CI/CD eficientes. Mi objetivo es aplicar mis habilidades para resolver problemas complejos y contribuir a la creación de software robusto y escalable. Busco activamente una **oportunidad de pasantía en el área de DevOps** donde pueda aprender y aportar valor.
 
 ---
 
