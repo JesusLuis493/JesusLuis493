@@ -61,9 +61,9 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-
-![Estadísticas de GitHub de Jesus](https://github-readme-stats.vercel.app/api?username=JesusLuis493&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusLuis493&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+<a href="https://github.com/JesusLuis493">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesusLuis493&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesusLuis493&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
