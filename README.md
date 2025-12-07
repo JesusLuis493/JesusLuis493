@@ -63,7 +63,7 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 
 <p align="center">
 <a href="https://github.com/JesusLuis493">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesusLuis493&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesusLuis493&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesusLuis493&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesusLuis493&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
