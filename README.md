@@ -10,7 +10,7 @@ Este README está diseñado para mostrar mis habilidades, proyectos y mi pasión
   <a href="https://www.linkedin.com/in/jesus-emmanuel-luis-sandoval-114639326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:jemanuelluissandoval@gmail.com">
+  <a href="mailto:jesusluis.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
