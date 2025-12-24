@@ -41,7 +41,7 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 - **Control de Versiones:** Git, GitHub.
 - **CI/CD:** Travis CI (implementando pipelines básicos), explorando GitHub Actions.
 - **Scripting y Automatización:** Shell Scripting (Bash) para automatizar tareas y flujos de trabajo.
-- **Lenguajes:** C++ (estructuras de datos, algoritmos), C# (principios de POO).
+- **Lenguajes:** C#/C++ (estructuras de datos, algoritmos).
 - **Sistemas Operativos:** Sólidos conocimientos en entornos Linux y Windows.
 
 ---
