@@ -1,9 +1,3 @@
-<!--
-Hola, reclutador o colega! Me entusiasma que estés viendo mi perfil.
-Estoy enfocado en construir una carrera en DevOps y Cloud. 
-Este README está diseñado para mostrar mis habilidades, proyectos y mi pasión por la automatización y la eficiencia.
--->
-
 # 👋 ¡Hola! Soy Jesus Luis
 
 <div align="center">
