@@ -46,7 +46,7 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 
 | Proyecto                                       | Descripción                                                                                                | Tecnologías Clave                             |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| **[tora-devops-toolkit](https://github.com/JesusLuis493/tora-devops-toolkit)** | Un conjunto de herramientas y scripts para automatizar tareas comunes de desarrollo. Mi campo de pruebas para CI/CD. | `Travis CI` `Shell Script` `Bash` `Git`       |
+| **[tora-devops-toolkit](https://github.com/JesusLuis493/tora-devops-toolkit)** | Un conjunto de herramientas y scripts para automatizar tareas comunes de desarrollo. Mi campo de pruebas para CI/CD. | `Travis CI` `GitHub Actions` `Shell Script` `Bash` `Git`       |
 | **[Momentum-calulator](https://github.com/JesusLuis493/MomentumCalculator)**             | Herramienta pensada para facilitar calculos de fisica. Actualmente en fase de planeacion. | `GitHub Actions` `C#` `Terraform` `Git`   |
 
 </div>
