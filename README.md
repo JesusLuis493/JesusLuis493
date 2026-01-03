@@ -13,7 +13,7 @@
 
 ### 🚀 Aspirante a Ingeniero DevOps y Entusiasta de la Nube
 
-Soy un estudiante de **Ingeniería en Sistemas Computacionales** apasionado por aprender la automatización, la infraestructura como código y la creación de pipelines de CI/CD eficientes. Mi objetivo es aplicar mis habilidades para resolver problemas complejos y contribuir a la creación de software robusto y escalable. Busco activamente una **oportunidad de pasantía en el área de DevOps** donde pueda aprender y aportar valor.
+Soy un estudiante de **Ingeniería en Sistemas Computacionales** apasionado por aprender el ciclo de vida del software, la infraestructura como código y la creación de pipelines de CI/CD eficientes. Mi objetivo es aplicar mis habilidades para resolver problemas complejos y contribuir a la creación de software robusto y escalable. Busco activamente una **oportunidad de pasantía en el área de DevOps** donde pueda aprender y aportar valor.
 
 ---
 
@@ -33,10 +33,10 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 </p>
 
 - **Control de Versiones:** Git, GitHub.
-- **CI/CD:** Travis CI (implementando pipelines básicos), explorando GitHub Actions.
+- **CI/CD:** Travis CI, GitHub Actions (implementando pipelines básicos).
 - **Scripting y Automatización:** Shell Scripting (Bash) para automatizar tareas y flujos de trabajo.
-- **Lenguajes:** C#/C++ (estructuras de datos, algoritmos).
-- **Sistemas Operativos:** Sólidos conocimientos en entornos Linux y Windows.
+- **Lenguajes:** C#/C++ (estructuras de datos, algoritmos, POO).
+- **Sistemas Operativos:** Sólidos conocimientos en entornos Linux base devian y Windows.
 
 ---
 
