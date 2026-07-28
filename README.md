@@ -49,7 +49,7 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 | Proyecto                                       | Descripción                                                                                                | Tecnologías Clave                             |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | **[tora-devops-toolkit](https://github.com/JesusLuis493/tora-devops-toolkit)** | Un conjunto de herramientas y scripts para automatizar tareas comunes de desarrollo. Mi campo de pruebas para CI/CD. | `Travis CI` `GitHub Actions` `Shell Script` `Bash` `Git`       |
-| **[Momentum-calulator](https://github.com/JesusLuis493/MomentumCalculator)**             | Herramienta pensada para facilitar calculos de fisica. Actualmente en fase de planeacion. | `GitHub Actions` `C#` `Terraform` `Git` `Docker`  |
+| **[Momentum-calulator](https://github.com/JesusLuis493/MomentumCalculator)**             | Herramienta pensada para facilitar calculos de fisica. Actualmente en fase de preparacion. | `GitHub Actions` `C#` `Terraform` `Git` `Docker`  |
 | **[Punto-de-venta](https://github.com/JesusLuis493/Punto-de-venta-mi-lupita)**             | Sistema de punto de venta funcional, pensado para flujo de caja pequeña. Version 1.0.0 ya desponible y funcinal| `MySql` `GitHub Actions` `Java`  `Git` `Ubuntu`  |
 
 </div>
