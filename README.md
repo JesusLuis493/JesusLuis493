@@ -7,6 +7,9 @@
   <a href="mailto:jesusluis.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://drive.google.com/file/d/1Fpc5gHaR_XJ8vycoyw-icb_PnIDRmN6i/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
+  </a>
 </div>
 
 ---
