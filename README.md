@@ -45,6 +45,7 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
 - **CI/CD:** Travis CI, GitHub Actions (implementando pipelines básicos).
 - **Contenerizacion:** Docker (Implementaciones sencillas).
 - **Infrastructura:** Terraform (Iac).
+- **Cloud:** Azure (Deploy para proyectos).
 - **Scripting y Automatización:** Shell Scripting (Bash) y shell check para automatizar tareas y flujos de trabajo de manera eficiente.
 - **Lenguajes:** C#/C++ (estructuras de datos, algoritmos, POO), java (Sistemas funcionales).
 - **Bases de datos:** MySql (mediante workbench y terminal).
