@@ -38,8 +38,6 @@ Aquí están algunas de las tecnologías con las que estoy construyendo mi exper
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"> </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
   <a href="https://www.shellcheck.net/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ShellCheck-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ShellCheck"> </a>
 </p>
 
